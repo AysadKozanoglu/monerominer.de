@@ -25,3 +25,7 @@ Thanks to XMRIG Developers to give the chance for self compiling and customizing
 ## Core Developers
 * **[xmrig](https://github.com/xmrig)**
 * **[sech1](https://github.com/SChernykh)**
+
+
+
+monerominer.de
