@@ -1,0 +1,15 @@
+/source/mminer/xmrig/build/CMakeFiles/rebuild_cache.dir
+/source/mminer/xmrig/build/CMakeFiles/edit_cache.dir
+/source/mminer/xmrig/build/CMakeFiles/xmrig-asm.dir
+/source/mminer/xmrig/build/CMakeFiles/xmrig.dir
+/source/mminer/xmrig/build/src/3rdparty/argon2/CMakeFiles/rebuild_cache.dir
+/source/mminer/xmrig/build/src/3rdparty/argon2/CMakeFiles/edit_cache.dir
+/source/mminer/xmrig/build/src/3rdparty/argon2/CMakeFiles/argon2-ssse3.dir
+/source/mminer/xmrig/build/src/3rdparty/argon2/CMakeFiles/argon2-sse2.dir
+/source/mminer/xmrig/build/src/3rdparty/argon2/CMakeFiles/argon2-xop.dir
+/source/mminer/xmrig/build/src/3rdparty/argon2/CMakeFiles/argon2-avx2.dir
+/source/mminer/xmrig/build/src/3rdparty/argon2/CMakeFiles/argon2-avx512f.dir
+/source/mminer/xmrig/build/src/3rdparty/argon2/CMakeFiles/argon2.dir
+/source/mminer/xmrig/build/src/3rdparty/libethash/CMakeFiles/rebuild_cache.dir
+/source/mminer/xmrig/build/src/3rdparty/libethash/CMakeFiles/ethash.dir
+/source/mminer/xmrig/build/src/3rdparty/libethash/CMakeFiles/edit_cache.dir
