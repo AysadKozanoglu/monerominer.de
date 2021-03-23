@@ -2,6 +2,7 @@
 
 mminer tool is custom compiled CPU mining tool for Monero MMiner Hardware (0% free)
 
+![mminer_tool_screenshot](https://raw.githubusercontent.com/AysadKozanoglu/monerominer.de/master/SCREENSHOT_MminerMineTool.jpg)
 
 ## Mining backends
 - **CPU** (x64/ARMv8)
